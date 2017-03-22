@@ -6,7 +6,7 @@ public class Checkprimeornot {
 	
 		
 		Checkprimeornot cp=new Checkprimeornot();
-		cp.checkPrime(70);
+		cp.checkPrime(56);
 	}
 		
 		public void checkPrime(int n)
