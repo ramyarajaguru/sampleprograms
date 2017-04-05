@@ -6,7 +6,7 @@ public class Reverseprime {
 		// TODO Auto-generated method stub
 		Reverseprime rp=new Reverseprime();
 		System.out.println("Reverse Prime Number Generation");
-		rp.reverseofPrime(50);
+		rp.reverseofPrime(40);
 
 	}
 	public void reverseofPrime(int n)
