@@ -1,7 +1,7 @@
 package Sample;
 
 public class Checkprimeornot {
-
+//updated one
 	public static void main(String[] args) {
 	
 		
